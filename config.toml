@@ -1,7 +1,11 @@
 [theme]
-primaryColor= "#ED6A5A"
-backgroundColor= "#F4F1BB"
-secondaryBackgroundColor= "#9BC1BC"
-font= "Shantell Sans"
-codeFont= "ShantellSans Mono:https://fonts.googleapis.com/css2?family=Shantell+Sans:ital,wght@0,300..800;1,300..800&display=swap"
-textColor= "#0B0E0C"
+primaryColor = "#DCB8CB"
+backgroundColor = "#CCD7E4"
+secondaryBackgroundColor = "#CEEAF7"
+textColor = "#0B0E0C"
+font = "Mulish"
+headingFont = "Mulish"
+
+[[theme.fontFaces]]
+family = "Mulish"
+url = "https://fonts.googleapis.com/css2?family=Mulish:wght@400;600;700&display=swap"
